@@ -1,0 +1,14 @@
+{
+  "name": "example-app",
+  "version": "1.0.0",
+  "description": "A sample Node.js application for testing GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "build": "echo 'Building the application...'",
+    "test": "echo 'Running tests...'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
